@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mapXv --g
+ls -mapv
