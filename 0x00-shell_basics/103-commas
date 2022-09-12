@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mapgX
+ls -mapX --g
