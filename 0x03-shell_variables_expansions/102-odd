@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -- | cut -fs 1
+paste -- | cut -fs1
